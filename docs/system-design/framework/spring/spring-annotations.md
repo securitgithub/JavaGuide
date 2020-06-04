@@ -1,7 +1,7 @@
 
 ### 文档目录 2020
 <!-- TOC -->
-- [文档目录](#%e6%96%87%e7%ab%a0%e7%9b%ae%e5%bd%95)
+- [文档目录0](#%e6%96%87%e7%ab%a0%e7%9b%ae%e5%bd%95)
 - [0.前言](#0%e5%89%8d%e8%a8%80)
 - [1. `@SpringBootApplication`](#1-springbootapplication)
 - [2. Spring Bean 相关](#2-spring-bean-%e7%9b%b8%e5%85%b3)
